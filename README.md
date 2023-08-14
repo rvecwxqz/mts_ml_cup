@@ -1,5 +1,5 @@
 # MTS ML CUP
-Joint decision with **Andrey Pedchenko(https://github.com/andrecpc)** on the **МТС Digital Big Data** competition
+Joint solution with **Andrey Pedchenko(https://github.com/andrecpc)** on the **МТС Digital Big Data** competition
 
 ![image](score.png)
 
